@@ -1,8 +1,19 @@
 # Netec Open edX
 ## Github Training Class
 
+### Course Description
+Welcome! The objective of this course is to provide the Open edX graphic design, admin and devops team members an opportunity to interact with Github in a team environment. During this course you will learn how to do the following
+* install Git on your local computer
+* create your own personal Github user account
+* join the "Netec edX" Github organization
+* edit and publish the sample web site in a team organizational structure
+
 ### Resources
-[Web site for this course is accessible here](https://netec-edx.github.io/github-training/ "Awesome Site!")
+* [Web site for this course](https://netec-edx.github.io/github-training/ "Awesome Site!")
+* [How To Install Git on your computer](https://www.atlassian.com/git/tutorials/install-git)
+* [Introduction to Github for organizations](https://github.com/blog/674-introducing-organizations)
+* [Managing Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
+
 
 Please Watch This Video First: Introducción práctica a Github
 ---
@@ -10,11 +21,6 @@ Please Watch This Video First: Introducción práctica a Github
 " target="_blank"><img src="http://img.youtube.com/vi/Hd0B_AWv_Y4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ---
-
-* [Github for organizations](https://github.com/blog/674-introducing-organizations)
-* [How To Install Git](https://www.atlassian.com/git/tutorials/install-git)
-* [Manage Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
-
 
 ---
 Terminal / Cmd commands to clone this repository to your local computer
