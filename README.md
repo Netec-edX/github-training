@@ -22,7 +22,6 @@ But first, lets watch this excellent video: Introducción práctica a Github
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hd0B_AWv_Y4
 " target="_blank"><img src="http://img.youtube.com/vi/Hd0B_AWv_Y4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
----
 
 ---
 Terminal / Cmd commands to clone this repository to your local computer
