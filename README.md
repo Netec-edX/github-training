@@ -17,9 +17,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ---
+Terminal / Cmd commands to clone this repository to your local computer
 ```Bash
-git clone
-git branch [your-name]
+git clone https://github.com/Netec-edX/github-training.git
+git branch [your-name-here]
 git commit -m "comment"
 git pull
 git push
