@@ -1,4 +1,5 @@
-[logo]: https://raw.githubusercontent.com/Netec-edX/github-training/master/images/netec-logo.png "Netec Logo"
+
+![Netec Logo](https://raw.githubusercontent.com/Netec-edX/github-training/master/images/netec-logo.png "Netec Logo")
 
 # Netec Open edX
 ## Github Training Class
