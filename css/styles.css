@@ -5,12 +5,17 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
+#logo-img {
+  background-color: #E5E0CD;
+}
+
 /** HEADER **/
 #header-nav {
-  background-color: gray;
+  background-color: #E5E0CD;
   border-radius: 0;
-  border: 3px solid black;
+  border: 1px solid #E0d9C9;
 }
+
 
 .navbar-brand {
 #  padding-top: 25px;
@@ -33,10 +38,11 @@ body {
 }
 
 .navbar-brand p { /* Kosher cert */
-#  color: #000;
+  color: #000;
 #  text-transform: uppercase;
-#  font-size: .7em;
-#  margin-top: 15px;
+  font-size: .7em;
+  margin-top: 15px;
+  padding: 5px;
 }
 
 .navbar-brand p span { /* Star-K */
@@ -72,40 +78,54 @@ body {
 
 
 /* HOME PAGE */
-#our-menu {
+#our-course {
   text-align: center;
 }
 
-#menu-tile {
+#course-tile {
   height: 500px;
   width: 100%;
   margin-bottom: 15px;
   margin-top:50px;
   position: relative;
-  border: none;
+  border: 1px solid #E0d9C9;
   overflow: hidden;
   color: black;
-}
-#menu-tile:hover {
-#  box-shadow: 0 1px 5px 1px #cccccc;
-}
-
-#menu-tile {
-  background-color: gray;
+  background-color: #E5E0CD;
   background-position: center;
 }
 
+#course-tile:hover {
+  box-shadow: 0 1px 3px 1px #999999;
+}
 
-#menu-tile span {
+
+#course-tile img {
+  width: 100%;
+  padding: 5%;
+}
+
+#course-tile p {
+  padding: 5%;
+  margin: 1%;
+  text-align: justify;
+  border: none;
+}
+
+#course-tile p:hover {
+  box-shadow: none;
+}
+
+#course-tile span {
   position: absolute;
   top: 0;
   right: 0;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   text-align: center;
   font-size: 1.5em;
-  font-weight: 900;
-  background-color: gray;
+  font-weight: bolder;
+  background-color: #E5E0CD;
 #  color: #fff;
 #  opacity: .5;
 }
@@ -117,12 +137,6 @@ body {
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-  #logo-img {
-#    background: url('../images/restaurant-logo_medium.png') no-repeat;
-    width: 100px;
-    height: 100px;
-    margin: 5px 5px 5px 0;
-  }
 
 }
 
@@ -171,10 +185,10 @@ body {
     height: 20px;
   }
 
-  #collapsable-nav a { /* Collapsed nav menu text */
+  #collapsable-nav a { /* Collapsed nav course text */
     font-size: 1.2em;
   }
-  #collapsable-nav a span { /* Collapsed nav menu glyph */
+  #collapsable-nav a span { /* Collapsed nav course glyph */
     font-size: 1em;
     margin-right: 5px;
   }
@@ -194,7 +208,7 @@ body {
     font-size: 6vw;
   }
   /* End Header */
-  
+
   /* Home page */
 
   .col-xxs-12 {
@@ -206,6 +220,3 @@ body {
     width: 100%;
   }
 }
-
-
-
