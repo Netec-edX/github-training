@@ -9,6 +9,15 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * join the "Netec edX" Github organization
 * edit and publish the sample web site in a team organizational structure
 
+### Course Instructions
+1. Review the materials below in the section "Resources"
+2. Watch the video "Introducción práctica a Github" below
+3. Create your personal Github account
+4. Join the "Netec edX" Github organization (we'll do this together during the class workshop)
+5. Install Git on your personal computer/laptop by following the instuctions below "How To Install Git on your computer"
+6. Create a local git repository of this project on your computer by following the instructions below "Terminal / Cmd commands to clone this repository to your local computer"
+7. Complete the "Team Assignment" as further described below.
+
 ### Your Team Assignment
 You are part of the graphic design team for the [Hipster School online acadamy](https://netec-edx.github.io/github-training/). You and your team members have created a hip landing page for your online acadamy and have submitted the site to the digital division's director for approval. Unfortunately the director rejected two items on your landing page:
 * She hates the text color of the site's title
