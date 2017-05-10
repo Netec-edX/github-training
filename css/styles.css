@@ -1,3 +1,19 @@
+/*------------------------------------------------------------------
+ FOR COURSE: Change the "color" attribute from green to #5F152C
+ ------------------------------------------------------------------*/
+#site-name {
+  font-family: 'Lora', serif;
+#  color: 	#5F152C;
+  color: 	green;
+  font-size: 2em;
+  font-weight: 900;
+  margin: auto;
+}
+/*------------------------------------------------------------------
+ END: FOR COURSE
+ ------------------------------------------------------------------*/
+
+
 body {
 #  font-size: 16px;
 #  color: #fff;
@@ -21,17 +37,6 @@ body {
 #  padding-top: 25px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
-#  font-family: 'Lora', serif;
-  color: black;
-#  font-size: 1.5em;
-#  text-transform: uppercase;
-#  font-weight: bold;
-#  text-shadow: 1px 1px 1px #222;
-#  margin-top: 0;
-#  margin-bottom: 0;
-#  line-height: .75;
-}
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
