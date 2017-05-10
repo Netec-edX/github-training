@@ -11,10 +11,9 @@ Please Watch This Video First: Introducción práctica a Github
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ---
 
-
-[Github for organizations](https://github.com/blog/674-introducing-organizations)
-[How To Install Git](https://www.atlassian.com/git/tutorials/install-git)
-[Manage Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
+* [Github for organizations](https://github.com/blog/674-introducing-organizations)
+* [How To Install Git](https://www.atlassian.com/git/tutorials/install-git)
+* [Manage Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
 
 
 ---
