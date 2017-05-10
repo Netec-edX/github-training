@@ -34,3 +34,13 @@ git pull
 git push
 ```
 ---
+Terminal / Cmd commands to add your completed work to the Netec edX organization repository on Github
+```Bash
+cd / [path to your local repository]
+git add .
+git commit -m "add a comment explaining the nature of your changes"
+git pull
+git push
+```
+---
+
