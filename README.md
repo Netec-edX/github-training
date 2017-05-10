@@ -14,6 +14,7 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * [How To Install Git on your computer](https://www.atlassian.com/git/tutorials/install-git)
 * [Introduction to Github for organizations](https://github.com/blog/674-introducing-organizations)
 * [Managing Git in a team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
+* [Github Markdown Guide (to edit this page)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
 
 But first, lets watch this excellent video: Introducción práctica a Github
