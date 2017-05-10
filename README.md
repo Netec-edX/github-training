@@ -11,7 +11,7 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 
 ### Course Instructions
 1. Review the materials below in the section "Resources"
-2. Watch the video "Introducción práctica a Github" below
+2. Watch the video below, "Introducción práctica a Github" below
 3. Create your personal Github account
 4. Join the "Netec edX" Github organization (we'll do this together during the class workshop)
 5. Install Git on your personal computer/laptop by following the instuctions below "How To Install Git on your computer"
