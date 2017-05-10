@@ -13,7 +13,7 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * [Web site for this course](https://netec-edx.github.io/github-training/ "Awesome Site!")
 * [How To Install Git on your computer](https://www.atlassian.com/git/tutorials/install-git)
 * [Introduction to Github for organizations](https://github.com/blog/674-introducing-organizations)
-* [Managing Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
+* [Managing Git in a team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
 
 
 But first, lets watch this excellent video: Introducción práctica a Github
