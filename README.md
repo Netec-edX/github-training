@@ -15,7 +15,7 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * [Managing Git in team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
 
 
-Please Watch This Video First: Introducción práctica a Github
+But first, lets watch this excellent video: Introducción práctica a Github
 ---
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hd0B_AWv_Y4
 " target="_blank"><img src="http://img.youtube.com/vi/Hd0B_AWv_Y4/0.jpg" 
