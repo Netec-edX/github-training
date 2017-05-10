@@ -9,6 +9,13 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * join the "Netec edX" Github organization
 * edit and publish the sample web site in a team organizational structure
 
+### Your Team Assignment
+You are part of the graphic design team for the Hipster School online acadamy. You and your team members have created a stylish and very hip landing page for your online acadamy and have submitted the site to the digital division's director for approval. Unfortunately the director rejected two items on your landing page:
+* She hates the text color of the site's title
+* She doesn't believe that an image of Justin Beiber accurately portrays the identity of a modern hipster and so she has requested that you choose an alternate image for the "How to be Unique" course. You will work in a team environment to make these changes to the site, and then re-submit your completed changes; all using Github. The two changes are to be made as follows:
+1. Edit the site's [main CSS style sheet](https://github.com/Netec-edX/github-training/blob/master/css/styles.css) on row 6.
+2. Change the image URL for the course "How to be Unique" by editing row 58 of [index.html](https://github.com/Netec-edX/github-training/blob/master/index.html)
+
 ### Resources
 * [Web site for this course](https://netec-edx.github.io/github-training/ "Awesome Site!")
 * [How To Install Git on your computer](https://www.atlassian.com/git/tutorials/install-git)
