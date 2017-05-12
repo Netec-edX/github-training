@@ -23,6 +23,23 @@ You are part of the graphic design team for the [Hipster School online academy](
 * She hates the text color of the site's title
 * She doesn't believe that an image of Justin Beiber accurately portrays the identity of a modern hipster and so she has requested that you replace the Beiber image with this image of a [pair of vintage roller skates](https://raw.githubusercontent.com/Netec-edX/github-training/master/images/hipster-skates.jpg). You will work in a team environment to make these changes to the site, and then re-submit your completed changes; all using Github. The two changes are to be made as follows:
 1. Edit the site's [main CSS style sheet](https://github.com/Netec-edX/github-training/blob/master/css/styles.css) on row 6.
+
+```/*------------------------------------------------------------------
+ FOR COURSE: Change the "color" attribute from green to #5F152C
+ ------------------------------------------------------------------*/
+#site-name {
+  font-family: 'Lora', serif;
+#  color: 	#5F152C;
+  color: 	green;
+  font-size: 2em;
+  font-weight: 900;
+  margin: auto;
+}
+/*------------------------------------------------------------------
+ END: FOR COURSE
+ ------------------------------------------------------------------*/
+```
+
 2. Change the image URL for the course "How to be Unique" by editing row 58 of [index.html](https://github.com/Netec-edX/github-training/blob/master/index.html)
 
 ```      <section id="section-unique">
