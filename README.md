@@ -25,6 +25,19 @@ You are part of the graphic design team for the [Hipster School online academy](
 1. Edit the site's [main CSS style sheet](https://github.com/Netec-edX/github-training/blob/master/css/styles.css) on row 6.
 2. Change the image URL for the course "How to be Unique" by editing row 58 of [index.html](https://github.com/Netec-edX/github-training/blob/master/index.html)
 
+```      <section id="section-unique">
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div id="course-tile">
+            <span><h3>How To Be Unique</h3></span>
+            <!-- For course: change this image to images/hipster-skates.jpg ---->
+            <img src="images/not-a-hipster.jpg">
+            <!----------------------------------------------------------------------------->
+            <p id="course-tile">DIY biodiesel small batch. Banh mi chicharrones lyft, retro you probably haven't heard of them lumbersexual la croix meh vaporware cardigan messenger bag. Tumeric butcher put a bird on it, subway tile gentrify austin pickled tousled. Health goth flannel organic, wolf yr viral chia iceland selvage salvia. Venmo tumblr jean shorts plaid literally gastropub, coloring book helvetica vice. Hashtag lomo forage direct trade VHS. Tumeric taxidermy single-origin coffee.</p>
+          </div>
+        </div><!-- end of middle -->
+      </section>
+```
+
 ### Resources
 * [Web site for this course](https://netec-edx.github.io/github-training/ "Awesome Site!")
 * [How To Install Git on your computer](https://www.atlassian.com/git/tutorials/install-git)
