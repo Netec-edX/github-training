@@ -9,6 +9,8 @@ Welcome! The objective of this course is to provide the Open edX graphic design,
 * join the "Netec edX" Github organization
 * edit and publish the sample web site in a team organizational structure
 
+yadda yadda yadda
+
 ### Course Instructions
 1. Review the materials below in the section "Resources"
 2. Watch the video below, "Introducción práctica a Github" below
@@ -66,7 +68,7 @@ You are part of the graphic design team for the [Hipster School online academy](
 But first, lets watch this excellent video: Introducción práctica a Github
 ---
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hd0B_AWv_Y4
-" target="_blank"><img src="http://img.youtube.com/vi/Hd0B_AWv_Y4/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/Hd0B_AWv_Y4/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
@@ -88,4 +90,3 @@ git pull
 git push
 ```
 ---
-
